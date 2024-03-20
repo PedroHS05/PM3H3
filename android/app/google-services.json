@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225552996674",
+    "project_id": "pmfilmes-195ac",
+    "storage_bucket": "pmfilmes-195ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225552996674:android:6b44eb6d88f441d18090db",
+        "android_client_info": {
+          "package_name": "com.example.pmfilmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFQkBKtQ6RgvIU4XaV2o3Fk1F22wqe14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
