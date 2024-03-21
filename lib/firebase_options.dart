@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBcRljnl2CHnR_VpktykjiUO1W9k1DllXE',
-    appId: '1:618762948394:web:2b70bb334fbecaba4f1853',
-    messagingSenderId: '618762948394',
-    projectId: 'pmfilmes-64d7e',
-    authDomain: 'pmfilmes-64d7e.firebaseapp.com',
-    storageBucket: 'pmfilmes-64d7e.appspot.com',
-    measurementId: 'G-GJTFX8H0QH',
+    apiKey: 'AIzaSyBEamUfoIm2UX4z0X-TVsQPZbaUnvCSfvo',
+    appId: '1:225552996674:web:47d5e997c8fce0d48090db',
+    messagingSenderId: '225552996674',
+    projectId: 'pmfilmes-195ac',
+    authDomain: 'pmfilmes-195ac.firebaseapp.com',
+    storageBucket: 'pmfilmes-195ac.appspot.com',
+    measurementId: 'G-HGGGDSZ31D',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDrlkfZvxrTzwvcwPKYssvU6ikEmbVCk8c',
-    appId: '1:618762948394:android:d4faa48c466b076d4f1853',
-    messagingSenderId: '618762948394',
-    projectId: 'pmfilmes-64d7e',
-    storageBucket: 'pmfilmes-64d7e.appspot.com',
+    apiKey: 'AIzaSyCfFQkBKtQ6RgvIU4XaV2o3Fk1F22wqe14',
+    appId: '1:225552996674:android:6b44eb6d88f441d18090db',
+    messagingSenderId: '225552996674',
+    projectId: 'pmfilmes-195ac',
+    storageBucket: 'pmfilmes-195ac.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCN2Oc00K-BxJD9269wdhPm03kCSZpA2qs',
-    appId: '1:618762948394:ios:627d9283a8cb0a3e4f1853',
-    messagingSenderId: '618762948394',
-    projectId: 'pmfilmes-64d7e',
-    storageBucket: 'pmfilmes-64d7e.appspot.com',
+    apiKey: 'AIzaSyDqIGkAueVMYOHY4-aplxEzC8gjnwlT3ZM',
+    appId: '1:225552996674:ios:f20df0a2152f2eea8090db',
+    messagingSenderId: '225552996674',
+    projectId: 'pmfilmes-195ac',
+    storageBucket: 'pmfilmes-195ac.appspot.com',
     iosBundleId: 'com.example.pmfilmes',
   );
 }
