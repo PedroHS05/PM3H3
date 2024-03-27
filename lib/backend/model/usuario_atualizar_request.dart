@@ -26,7 +26,7 @@ class UsuarioAtualizarRequest {
 
   static List<UsuarioAtualizarRequest> listFromJson(List<dynamic> json) {
     return json
-        .map((value) => new UsuarioAtualizarRequest.fromJson(value))
+        .map((value) => UsuarioAtualizarRequest.fromJson(value))
         .toList();
   }
 
